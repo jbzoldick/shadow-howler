@@ -1,0 +1,29 @@
+
+
+
+section .container h2{
+    font-size: 35px;   
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(140, 24, 26);   
+    border-radius: 15px;  
+    display: block;
+}
+
+section .container p{
+    display:block;
+    text-align: center;
+    justify-content: center;
+    font-size: large;
+    padding: auto;
+    margin-top: auto;
+    position: relative;
+}
+
+section .container h3{
+    text-align: center;
+    display: block;
+    font-size: 35px;
+    background-color: rgb(121, 119, 95);
+    border-radius: 15px;
+}
